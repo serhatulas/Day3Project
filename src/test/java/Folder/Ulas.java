@@ -2,6 +2,7 @@ package Folder;
 
 public class Ulas {
     public static void main(String[] args) {
-        System.out.println("Message");
+        System.out.println("Message deleted");
+
     }
 }
